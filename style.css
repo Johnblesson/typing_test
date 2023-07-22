@@ -40,12 +40,15 @@
   button {
     float: right;
     margin-top: 20px;
-    background-color: #3066f6;
+    background-color: #27355b;
     color: #ffffff;
     border: none;
     padding: 10px 30px;
     border-radius: 5px;
     font-size: 18px;
+  }
+  button:hover{
+    background-color: #3066f6;
   }
   .result {
     margin-top: 40px;
